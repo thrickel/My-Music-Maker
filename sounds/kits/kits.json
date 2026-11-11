@@ -1,0 +1,18 @@
+{
+ "partSize": 4194304,
+ "kits": [
+  {
+   "file": "nylon_iowa.kit",
+   "size": 10170528,
+   "partSize": 4194304,
+   "head": "nylon_iowa.head.wasm",
+   "headSize": 20992,
+   "parts": [
+    "nylon_iowa.part00.wasm",
+    "nylon_iowa.part01.wasm",
+    "nylon_iowa.part02.wasm"
+   ],
+   "sha256": "74d7b2961b721848b83cd0db0ddc14b1d5accdf929617b9e7648519601ba98aa"
+  }
+ ]
+}
